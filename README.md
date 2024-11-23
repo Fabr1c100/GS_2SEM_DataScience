@@ -40,15 +40,17 @@ Utilizando dados de fontes confiáveis, como o *World Bank* e *Kaggle, e aplican
 
 Certifique-se de que as seguintes bibliotecas estão instaladas no seu ambiente Python:
 
-- numpy  
 - pandas  
+- numpy  
 - matplotlib  
+- seaborn  
+- scipy  
+- scikit-learn  
 
 Para instalá-las, execute:
 
-bash
-```
-pip install numpy pandas matplotlib
+```bash
+pip install pandas numpy matplotlib seaborn scipy scikit-learn
 ```
 
 ---
@@ -61,4 +63,4 @@ Os gráficos gerados no projeto comparam custos acumulados ao longo do tempo par
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato com os integrantes do grupo.
+Para dúvidas ou sugestões, entre em contato com os integrantes do grupo.    
